@@ -6,8 +6,6 @@
 2. уцийуеиуеи
 * ерц4ерц4ер
 ---
-$$
-/alpha /implies x
-$$
+$/alpha /implies x$
 
 ## Конец
